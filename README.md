@@ -1,3 +1,2 @@
-Meu primeiro repositorio Remoto
-dd
+Meu primeiro repositorio Remotofoi que foi 
 	

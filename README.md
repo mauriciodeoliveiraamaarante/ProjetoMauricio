@@ -1,2 +1,2 @@
-Meu primeiro repositorio Remotofoi que foi 
+Meu primeiro repositorio Remotoalterado e atuliazado 
 	

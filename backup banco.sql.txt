@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Teste 1
 ddf
 lklkla
 sdfdsafadfv;
 
 csdv 
+=======
+sc~f.sd,vf,bdfd,b.,;.;.n;.
+>>>>>>> parent of dee5e73... backup banco de dados

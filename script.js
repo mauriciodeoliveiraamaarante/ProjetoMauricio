@@ -2,4 +2,5 @@
 //var nome = "Mauricio de Oliveira Amarante";
 //var x = prompt("Digite um número");
 
-document.write("<img src='http://wwww.google.com.br/google.jpg'>");
+var nome = prompt("Digite seu Nome");
+		console.log('O nome digitado e :'+nome);

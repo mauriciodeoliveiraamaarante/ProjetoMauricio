@@ -12,6 +12,7 @@
 
 	}	
 		
+		
 function removeMais(){
 
 			var produto   = document.getElementById('produto').value;
@@ -21,3 +22,8 @@ function removeMais(){
 		
 
 	}			
+	
+	var x = 10 
+	var y = x + 40;
+	alert(y);
+	
